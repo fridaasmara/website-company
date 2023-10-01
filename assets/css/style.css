@@ -1,0 +1,29 @@
+.section-padding {
+    padding: 100px 0;
+}
+
+.btn {
+    margin-top: 50px;
+}
+
+.card-body img{
+    width: 150px;
+    height: 150px;
+}
+
+.sosmed i{
+    padding-left: 10px;
+}
+
+#service {
+    height: 400px;
+    background-color: #896F4A;
+}
+
+#project {
+    height: 500px;
+}
+
+#project .card-body {
+    height: 300px;
+}
